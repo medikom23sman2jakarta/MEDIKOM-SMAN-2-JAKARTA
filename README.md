@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8" />
@@ -1255,7 +1254,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="profile-card">
-                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.jpg" alt="Ketua MEDIKOM" />
+                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.JPG" alt="Ketua MEDIKOM" />
                             <div class="profile-info">
                                 <span class="role-badge ketua">KETUA</span>
                                 <h4>Calysta Aurellia</h4>
@@ -1396,7 +1395,7 @@
                                     <img src="IMG_0238.jpeg" class="d-block w-100" alt="Kegiatan Seru">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="IMG_5086.png" class="d-block w-100" alt="Kegiatan Seru">
+                                    <img src="IMG_5086.PNG" class="d-block w-100" alt="Kegiatan Seru">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="IMG-20251002-WA0044.jpg" class="d-block w-100" alt="Kegiatan Seru">
