@@ -1640,9 +1640,6 @@
                             <i class="fas fa-info-circle"></i>Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
                         </p>
                         <h2 style="font-size:clamp(0.7rem,1.8vw,1rem);">JANGAN LUPA GABUNG MEDIKOM YAAA!</h2>
-                    </div>
-                </div>
-            </section>
 
             <!-- ===== KONTAK ===== -->
             <section id="kontak">
