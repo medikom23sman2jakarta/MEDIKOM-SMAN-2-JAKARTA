@@ -1921,5 +1921,3 @@
             console.log('🧱 MEDIKOM SMAN 2 JAKARTA · Mobile-optimized Retro Edition siap!');
         })();
     </script>
-</body>
-</html>
