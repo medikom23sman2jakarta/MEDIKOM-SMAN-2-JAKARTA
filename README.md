@@ -1637,7 +1637,7 @@
                             Jika kamu ingin mendapatkan pengalaman, keseruan, pengetahuan dan pertemanan yang luas. "JANGAN LUPA DAFTAR MEDIKOM YAWWW"
                         </p>
                         <p style="margin-top:14px;font-size:0.72rem;color:#a78bcb;">
-                            <i class="fas fa-info-circle">Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
+                            <i class="fas fa-info-circle"></i>Kamu akan diberikan Google Forms · Pastikan data diisi dengan lengkap dan benar.
                         </p>
                         <h2 style="font-size:clamp(0.7rem,1.8vw,1rem);">JANGAN LUPA GABUNG MEDIKOM YAAA!</h2>
                     </div>
