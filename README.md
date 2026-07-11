@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+    <title>🧱 MEDIKOM SMAN 2 JAKARTA · Retro Edition</title>
+
     <!-- Font & Icons -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -1921,3 +1928,5 @@
             console.log('🧱 MEDIKOM SMAN 2 JAKARTA · Mobile-optimized Retro Edition siap!');
         })();
     </script>
+</body>
+</html>
