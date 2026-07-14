@@ -1615,8 +1615,8 @@
                     <div class="col-md-6">
                         <div class="video-wrapper">
                             <video controls playsinline preload="metadata" poster="">
-                                <source src="WhatsApp Video 2026-06-30 at 06.29.54.mp4" type="video/mp4">
-                                Browser Anda tidak mendukung pemutaran video. Silakan <a href="WhatsApp Video 2026-06-30 at 06.29.54.mp4">unduh video</a>.
+                                <source src="WhatsApp Video 2026-07-14 at 22.12.58.mp4" type="video/mp4">
+                                Browser Anda tidak mendukung pemutaran video. Silakan <a href="WhatsApp Video 2026-07-14 at 22.12.58.mp4">unduh video</a>.
                             </video>
                         </div>
                     </div>
